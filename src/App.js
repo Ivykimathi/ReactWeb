@@ -27,7 +27,7 @@ function App() {
                   <a href="home.html" className="navbar_links">Home</a>
                 </li>
                 <li className="about_item">
-                   <a href="#about" className="navbar_links">About us</a>
+                   <a href="#about" className="navbar_links">About</a>
                 </li>
                 <li className="navbar_item">
                    <a href="#department" className="navbar_links">Departments</a>
